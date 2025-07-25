@@ -50,10 +50,3 @@ def quiz(score):#function to taking quiz
 #calling function
 quiz(s1)
 
-# print("SCORE:",score)
-# if score==2:
-#     print("**close! but try again**")
-# elif score==3:
-#     print("**Winner**")
-# else:
-#     print("looser")
